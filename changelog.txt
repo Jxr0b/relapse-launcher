@@ -1,8 +1,8 @@
-changelog:
+changelog
 
-fixed:
--dotdotdot crash
--YCR LMS music stuff
--Egg Hideout visuals
--vote practice crash
--tails happy emote color stuff
+fixed
+dotdotdot crash
+YCR LMS music stuff
+Egg Hideout visuals
+vote practice crash
+tails happy emote color stuff

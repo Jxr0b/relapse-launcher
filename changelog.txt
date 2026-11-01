@@ -1,9 +1,8 @@
 changelog:
+
 fixed:
 -dotdotdot crash
 -YCR LMS music stuff
 -Egg Hideout visuals
--vote practice crash, why would you even vote that map
+-vote practice crash
 -tails happy emote color stuff
-changed:
--pins in the join game section now connect to unofficial public servers 
